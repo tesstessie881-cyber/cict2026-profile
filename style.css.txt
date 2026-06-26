@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title.CICT 0115</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Hello CICT 0115</H1>
+</body>
+</html>
